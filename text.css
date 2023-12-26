@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+}
+.mainheader{
+    text-align: center;
+    text-decoration: none;
+}
+.title{
+    text-align: center;
+}
+.text{
+    color:white
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+p{
+    color: white;
+}
+ul{
+    color: white;
+}
+.mainbuttons{
+    border-radius: 25px;
+    background-color:white
+}
+.mainbuttons:hover{
+    background-color: rgb(3, 181, 251)
+}
+.fa-brands.fa-facebook.fa-xl{
+    color:white
+}
+.fa-brands.fa-facebook.fa-xl:hover{
+    color:rgba(0, 145, 255, 0.84)
+}
+.fa-brands.fa-linkedin.fa-xl{
+    color:white
+}
+.fa-brands.fa-linkedin.fa-xl:hover{
+    color:rgba(0, 145, 255, 0.84)
+}
+.fa-brands.fa-github.fa-xl{
+    color: white;
+}
+.fa-brands.fa-github.fa-xl:hover{
+    color:rgba(0, 145, 255, 0.84)
+}
+.fa-solid.fa-envelope.fa-xl{
+    color:white
+}
+.fa-solid.fa-envelope.fa-xl:hover{
+    color:rgba(0, 145, 255, 0.84)
+}
